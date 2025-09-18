@@ -40,6 +40,10 @@ const customStyles = `.Root__top-container,
   display: none;
 }
 
+.IEulmRakQT_FgH43ov2a {
+  display: none;
+}
+
 #Desktop_LeftSidebar_Id,
 .Root__globalNav {
   transition: width 0.3s ease;
