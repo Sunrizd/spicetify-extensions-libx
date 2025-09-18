@@ -31,6 +31,14 @@ const customStyles = `.Root__top-container,
   grid-area: global-nav !important;
 }
 
+.ppjvheuqvs8mmcHwKkK5 {
+  margin-left: 8px;
+  padding-left: unset;
+}
+
+.ZIgg4O2heaZyD8Z7o7MQ {
+  display: none;
+}
 
 #Desktop_LeftSidebar_Id,
 .Root__globalNav {
